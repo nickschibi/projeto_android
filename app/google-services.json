@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "299023723377",
+    "firebase_url": "https://picturesque-1a638.firebaseio.com",
+    "project_id": "picturesque-1a638",
+    "storage_bucket": "picturesque-1a638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299023723377:android:bd2fda5a20ba3f0a",
+        "android_client_info": {
+          "package_name": "com.example.bonnie.picturesque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299023723377-0qvnlo7b7rc90qrap7tihte6du5128jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonnie.picturesque",
+            "certificate_hash": "66592c9b8dae3f8a1444a0afbe783e121893bc9a"
+          }
+        },
+        {
+          "client_id": "299023723377-1u0fv8bvpfrp9pf90n5meni12don2nqo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "299023723377-1u0fv8bvpfrp9pf90n5meni12don2nqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXrPq0wmvDQJ5dDnvkhRnI1llOPCRDUzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299023723377-1u0fv8bvpfrp9pf90n5meni12don2nqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

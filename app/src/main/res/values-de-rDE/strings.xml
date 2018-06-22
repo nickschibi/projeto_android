@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Malerisch</string>
+    <string name="action_settings">" Konfiguration"</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="palavra_chave">" Passwort"</string>
+    <string name="permissaoCamera">Für die Verwendung aller Anwendungsfunktionen ist eine Berechtigung erforderlich</string>
+    <string name="foto_nao_tirada">Foto wurde abgebrochen</string>
+    <string name="problemas_com_download">" Kann nicht heruntergeladen werden"</string>
+    <string name="problemas_ao_conectar_firebase">" Probleme beim Verbinden mit Firebase"</string>
+    <string name="sucesso">" Erfolg beim Hochladen"</string>
+    <string name="falha">" Upload fehlgeschlagen"</string>
+    <string name="dialog">" Möchten Sie wirklich löschen?"</string>
+    <string name="cancelar">" Abbrechen"</string>
+    <string name="excluir">" Wählen Sie eine Größe:"</string>
+    <string name="informa_tag">" Sie müssen ein Tag eingeben"</string>
+    <string name="cancelado">" Storniert"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">絵画的な</string>
+    <string name="action_settings">構成</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="palavra_chave">パスワード</string>
+    <string name="permissaoCamera">すべてのアプリケーション機能を使用するための許可が必要です</string>
+    <string name="foto_nao_tirada">写真がキャンセルされました</string>
+    <string name="problemas_com_download">ダウンロードできません</string>
+    <string name="problemas_ao_conectar_firebase">Firebaseに接続する際の問題</string>
+    <string name="sucesso">アップロード</string>
+    <string name="falha">アップロードに失敗しました</string>
+    <string name="dialog">本当に削除しますか？</string>
+    <string name="cancelar">キャンセル</string>
+    <string name="excluir">サイズを選択：</string>
+    <string name="informa_tag">タグを入力する必要があります</string>
+    <string name="cancelado">キャンセルされた</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picturesque</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="palavra_chave">Key Word</string>
+    <string name="permissaoCamera">" Permission is required to use all application features"</string>
+    <string name="foto_nao_tirada">" Photo Canceled"</string>
+    <string name="problemas_com_download">" Unable to download"</string>
+    <string name="problemas_ao_conectar_firebase">" Problems connecting to Firebase"</string>
+    <string name="sucesso">" Success uploading"</string>
+    <string name="falha">" Upload failed"</string>
+    <string name="dialog">" Do you really want to Delete?"</string>
+    <string name="cancelar">Cancel</string>
+    <string name="excluir">" Delete"</string>
+    <string name="informa_tag">" You must enter a tag"</string>
+    <string name="cancelado">" Canceled"</string>
+</resources>
